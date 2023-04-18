@@ -1,0 +1,1272 @@
+Uri: https://kit.fontawesome.com/80f6b84efd.js
+File Name: D:\website\www.vadimap.com\80f6b84efd.js
+Content Type: text/javascript
+
+Uri: https://natural-resources.canada.ca/sites/nrcan/files/energy/pdf/Class_431-432_Technical_Guide(En)_-Dec-16-ACC.pdf
+File Name: D:\website\www.vadimap.com\sites\nrcan\files\energy\pdf\Class_431-432_Technical_Guide(En)_-Dec-16-ACC.pdf
+Content Type: application/pdf
+
+Uri: https://p.typekit.net/p.css?s=1&k=gxb6vyd&ht=tk&f=15701.15703.15705.15708&a=1897586&app=typekit&e=css
+File Name: D:\website\www.vadimap.com\p.css
+Content Type: text/css
+
+Uri: https://px.ads.linkedin.com/collect?pid=5291153&fmt=gif&liSync=true
+File Name: D:\website\www.vadimap.com\collect
+Content Type: image/gif
+
+Uri: https://ressources-naturelles.canada.ca/sites/nrcan/files/energy/pdf/Class_431-432_Technical_Guide(Fr)_2020-Dec-16-ACC.pdf
+File Name: D:\website\www.vadimap.com\sites\nrcan\files\energy\pdf\Class_431-432_Technical_Guide(Fr)_2020-Dec-16-ACC.pdf
+Content Type: application/pdf
+
+Uri: https://rmi.org/wp-content/uploads/2017/03/RMI-TheEconomicsOfBatteryEnergyStorage-FullReport-FINAL.pdf
+File Name: D:\website\www.vadimap.com\wp-content\uploads\2017\03\RMI-TheEconomicsOfBatteryEnergyStorage-FullReport-FINAL.pdf
+Content Type: application/pdf
+
+Uri: https://s7.addthis.com/js/300/addthis_widget.js
+File Name: D:\website\www.vadimap.com\js\300\addthis_widget.js
+Content Type: application/javascript
+
+Uri: https://unfccc.int/files/meetings/paris_nov_2015/application/pdf/paris_agreement_english_.pdf
+File Name: D:\website\www.vadimap.com\files\meetings\paris_nov_2015\application\pdf\paris_agreement_english_.pdf
+Content Type: application/pdf
+
+Uri: https://use.typekit.net/af/180254/00000000000000000001522c/27/a?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n4&v=3
+File Name: D:\website\www.vadimap.com\af\180254\00000000000000000001522c\27\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/180254/00000000000000000001522c/27/d?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n4&v=3
+File Name: D:\website\www.vadimap.com\af\180254\00000000000000000001522c\27\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/180254/00000000000000000001522c/27/l?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n4&v=3
+File Name: D:\website\www.vadimap.com\af\180254\00000000000000000001522c\27\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/220823/000000000000000000015231/27/a?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n7&v=3
+File Name: D:\website\www.vadimap.com\af\220823\000000000000000000015231\27\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/220823/000000000000000000015231/27/d?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n7&v=3
+File Name: D:\website\www.vadimap.com\af\220823\000000000000000000015231\27\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/220823/000000000000000000015231/27/l?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n7&v=3
+File Name: D:\website\www.vadimap.com\af\220823\000000000000000000015231\27\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/6c7e72/000000000000000000015232/27/a?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=i7&v=3
+File Name: D:\website\www.vadimap.com\af\6c7e72\000000000000000000015232\27\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/6c7e72/000000000000000000015232/27/d?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=i7&v=3
+File Name: D:\website\www.vadimap.com\af\6c7e72\000000000000000000015232\27\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/6c7e72/000000000000000000015232/27/l?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=i7&v=3
+File Name: D:\website\www.vadimap.com\af\6c7e72\000000000000000000015232\27\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/bdde80/00000000000000000001522d/27/a?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=i4&v=3
+File Name: D:\website\www.vadimap.com\af\bdde80\00000000000000000001522d\27\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/bdde80/00000000000000000001522d/27/d?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=i4&v=3
+File Name: D:\website\www.vadimap.com\af\bdde80\00000000000000000001522d\27\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/bdde80/00000000000000000001522d/27/l?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=i4&v=3
+File Name: D:\website\www.vadimap.com\af\bdde80\00000000000000000001522d\27\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/gxb6vyd.css
+File Name: D:\website\www.vadimap.com\gxb6vyd.css
+Content Type: text/css
+
+Uri: https://www-formal.stanford.edu/jmc/whatisai.pdf
+File Name: D:\website\www.vadimap.com\jmc\whatisai.pdf
+Content Type: application/pdf
+
+Uri: https://www.canada.ca/content/dam/themes/environment/documents/weather1/20170125-fr.pdf
+File Name: D:\website\www.vadimap.com\content\dam\themes\environment\documents\weather1\20170125-fr.pdf
+Content Type: application/pdf
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-183813277-1
+File Name: D:\website\www.vadimap.com\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.mckinsey.com/~/media/mckinsey/business functions/mckinsey digital/our insights/the top trends in tech 2022/mckinsey-tech-trends-outlook-2022-full-report.pdf
+File Name: D:\website\www.vadimap.com\~\media\mckinsey\business functions\mckinsey digital\our insights\the top trends in tech 2022\mckinsey-tech-trends-outlook-2022-full-report.pdf
+Content Type: application/pdf
+
+Uri: https://www.nrel.gov/docs/fy10osti/47662.pdf
+File Name: D:\website\www.vadimap.com\docs\fy10osti\47662.pdf
+Content Type: application/pdf
+
+Uri: https://www.saskpower.com/-/media/SaskPower/Our-Power-Future/Powering-2030/Guidelines-NetMetering.ashx
+File Name: D:\website\www.vadimap.com\-\media\SaskPower\Our-Power-Future\Powering-2030\Guidelines-NetMetering.pdf
+Content Type: application/pdf
+
+Uri: https://www.saskpower.com/-/media/SaskPower/Our-Power-Future/Powering-2030/Use-your-Power/Terms-NetMetering.ashx
+File Name: D:\website\www.vadimap.com\-\media\SaskPower\Our-Power-Future\Powering-2030\Use-your-Power\Terms-NetMetering.pdf
+Content Type: application/pdf
+
+Uri: https://www.vadimap.com/
+File Name: D:\website\www.vadimap.com\index.htm
+Content Type: text/html
+
+Uri: https://www.vadimap.com/about-us
+File Name: D:\website\www.vadimap.com\about-us.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/blog
+File Name: D:\website\www.vadimap.com\blog.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/blog/5-steps-to-a-net-zero-objective-for-your-organizations-a28
+File Name: D:\website\www.vadimap.com\blog\5-steps-to-a-net-zero-objective-for-your-organizations-a28.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/blog/aieq-conference-november-25th-2020-dan-boucher-ceo-vadimus-a6
+File Name: D:\website\www.vadimap.com\blog\aieq-conference-november-25th-2020-dan-boucher-ceo-vadimus-a6.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/blog/am-i-required-by-law-to-declare-the-energy-performance-of-my-building-a25
+File Name: D:\website\www.vadimap.com\blog\am-i-required-by-law-to-declare-the-energy-performance-of-my-building-a25.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/blog/calculating-the-real-impact-of-nanogrids-on-ghg-emissions-a13
+File Name: D:\website\www.vadimap.com\blog\calculating-the-real-impact-of-nanogrids-on-ghg-emissions-a13.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/blog/can-corporate-responsibility-help-my-business-attract-and-retain-talent-a21
+File Name: D:\website\www.vadimap.com\blog\can-corporate-responsibility-help-my-business-attract-and-retain-talent-a21.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/blog/congratulations-to-cidrerie-milton-our-winner-of-the-vadimap-prescription-report-a19
+File Name: D:\website\www.vadimap.com\blog\congratulations-to-cidrerie-milton-our-winner-of-the-vadimap-prescription-report-a19.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/blog/data-driven-decisions-with-vadimap-a5
+File Name: D:\website\www.vadimap.com\blog\data-driven-decisions-with-vadimap-a5.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/blog/generator-or-solar-panels-with-batteries-what-s-the-best-option-for-my-business-a20
+File Name: D:\website\www.vadimap.com\blog\generator-or-solar-panels-with-batteries-what-s-the-best-option-for-my-business-a20.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/blog/how-to-integrate-diversified-renewable-energies-into-a-commercial-industrial-or-institutional-building-a14
+File Name: D:\website\www.vadimap.com\blog\how-to-integrate-diversified-renewable-energies-into-a-commercial-industrial-or-institutional-building-a14.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/blog/how-to-protect-your-company-from-energy-price-fluctuations-a29
+File Name: D:\website\www.vadimap.com\blog\how-to-protect-your-company-from-energy-price-fluctuations-a29.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/blog/is-the-grid-of-the-future-like-juicy-fruit-a9
+File Name: D:\website\www.vadimap.com\blog\is-the-grid-of-the-future-like-juicy-fruit-a9.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/blog/renewable-energy-certificates-recs-nanogrids-or-both-a8
+File Name: D:\website\www.vadimap.com\blog\renewable-energy-certificates-recs-nanogrids-or-both-a8.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/blog/should-building-owners-bet-on-ai-to-be-net-zero-a27
+File Name: D:\website\www.vadimap.com\blog\should-building-owners-bet-on-ai-to-be-net-zero-a27.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/blog/solar-power-energy-vs-the-elements-a24
+File Name: D:\website\www.vadimap.com\blog\solar-power-energy-vs-the-elements-a24.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/blog/the-future-of-energy-storage-a26
+File Name: D:\website\www.vadimap.com\blog\the-future-of-energy-storage-a26.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/blog/vadimap-collaboration-to-accelerate-the-development-of-a-solution-a7
+File Name: D:\website\www.vadimap.com\blog\vadimap-collaboration-to-accelerate-the-development-of-a-solution-a7.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/blog/vadimap-energy-talk-1-with-mike-perrault-president-at-rematek-energy-a11
+File Name: D:\website\www.vadimap.com\blog\vadimap-energy-talk-1-with-mike-perrault-president-at-rematek-energy-a11.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/blog/what-incentives-are-available-for-businesses-in-alberta-british-colombia-and-saskatchewan-canada-to-help-the-transition-to-renewable-energies-a18
+File Name: D:\website\www.vadimap.com\blog\what-incentives-are-available-for-businesses-in-alberta-british-colombia-and-saskatchewan-canada-to-help-the-transition-to-renewable-energies-a18.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/blog/what-incentives-are-available-for-businesses-in-atlantic-canada-to-help-the-transition-to-renewable-energies-a16
+File Name: D:\website\www.vadimap.com\blog\what-incentives-are-available-for-businesses-in-atlantic-canada-to-help-the-transition-to-renewable-energies-a16.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/blog/what-incentives-are-available-for-businesses-in-ontario-canada-to-help-the-transition-to-renewable-energies-a17
+File Name: D:\website\www.vadimap.com\blog\what-incentives-are-available-for-businesses-in-ontario-canada-to-help-the-transition-to-renewable-energies-a17.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/blog/when-things-get-real-the-edmonton-convention-centre-a23
+File Name: D:\website\www.vadimap.com\blog\when-things-get-real-the-edmonton-convention-centre-a23.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/blog/when-things-get-real-the-lemay-project-a22
+File Name: D:\website\www.vadimap.com\blog\when-things-get-real-the-lemay-project-a22.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/careers
+File Name: D:\website\www.vadimap.com\careers.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/case-studies
+File Name: D:\website\www.vadimap.com\case-studies.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/Case_study3.pdf
+File Name: D:\website\www.vadimap.com\Case_study3.pdf
+Content Type: application/pdf
+
+Uri: https://www.vadimap.com/Case_study4.pdf
+File Name: D:\website\www.vadimap.com\Case_study4.pdf
+Content Type: application/pdf
+
+Uri: https://www.vadimap.com/cms_files/blog/137x206xDan_Boucher.jpg.pagespeed.ic.RCMMfOYr7R.jpg
+File Name: D:\website\www.vadimap.com\cms_files\blog\137x206xDan_Boucher.jpg.pagespeed.ic.RCMMfOYr7R.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/cms_files/blog/1617284663271.png
+File Name: D:\website\www.vadimap.com\cms_files\blog\1617284663271.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/cms_files/blog/185x278xDan_Boucher.jpg.pagespeed.ic.FCzxCYtuLZ.jpg
+File Name: D:\website\www.vadimap.com\cms_files\blog\185x278xDan_Boucher.jpg.pagespeed.ic.FCzxCYtuLZ.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/cms_files/blog/275x275xportable_generator.jpg.pagespeed.ic.i75zpT5sij.jpg
+File Name: D:\website\www.vadimap.com\cms_files\blog\275x275xportable_generator.jpg.pagespeed.ic.i75zpT5sij.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/cms_files/blog/3.jpg
+File Name: D:\website\www.vadimap.com\cms_files\blog\3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/cms_files/blog/300x200xsmart_thermostat.jpg.pagespeed.ic.gl0BPWUlc-.jpg
+File Name: D:\website\www.vadimap.com\cms_files\blog\300x200xsmart_thermostat.jpg.pagespeed.ic.gl0BPWUlc-.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/cms_files/blog/386x219xAI.png.pagespeed.ic.ijZ4OFYQW7.png
+File Name: D:\website\www.vadimap.com\cms_files\blog\386x219xAI.png.pagespeed.ic.ijZ4OFYQW7.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/cms_files/blog/4.jpg
+File Name: D:\website\www.vadimap.com\cms_files\blog\4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/cms_files/blog/400x601xDSC09362-Edit-scaled.jpg.pagespeed.ic.wqxyHAcKaK.jpg
+File Name: D:\website\www.vadimap.com\cms_files\blog\400x601xDSC09362-Edit-scaled.jpg.pagespeed.ic.wqxyHAcKaK.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/cms_files/blog/5.jpg
+File Name: D:\website\www.vadimap.com\cms_files\blog\5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/cms_files/blog/500x333x3.jpg.pagespeed.ic.NLnZol1G9t.jpg
+File Name: D:\website\www.vadimap.com\cms_files\blog\500x333x3.jpg.pagespeed.ic.NLnZol1G9t.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/cms_files/blog/500x333x4.jpg.pagespeed.ic.F5W_KE9zMx.jpg
+File Name: D:\website\www.vadimap.com\cms_files\blog\500x333x4.jpg.pagespeed.ic.F5W_KE9zMx.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/cms_files/blog/500x333x5.jpg.pagespeed.ic._3A1D5CTOw.jpg
+File Name: D:\website\www.vadimap.com\cms_files\blog\500x333x5.jpg.pagespeed.ic._3A1D5CTOw.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/cms_files/blog/550x275xsolar_panels_with_batteries2.jpg.pagespeed.ic.5Z6IkoHpk9.jpg
+File Name: D:\website\www.vadimap.com\cms_files\blog\550x275xsolar_panels_with_batteries2.jpg.pagespeed.ic.5Z6IkoHpk9.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/cms_files/blog/600x290x1617284663271.png.pagespeed.ic.OLuhxcxBVI.png
+File Name: D:\website\www.vadimap.com\cms_files\blog\600x290x1617284663271.png.pagespeed.ic.OLuhxcxBVI.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/cms_files/blog/600x300xgoogle-ceo-sundar-pichai.jpg.pagespeed.ic.FoERw5SyyK.jpg
+File Name: D:\website\www.vadimap.com\cms_files\blog\600x300xgoogle-ceo-sundar-pichai.jpg.pagespeed.ic.FoERw5SyyK.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/cms_files/blog/801x427xAI_applications_,281,29.png.pagespeed.ic.3XqEbqMRfo.png
+File Name: D:\website\www.vadimap.com\cms_files\blog\801x427xAI_applications_,281,29.png.pagespeed.ic.3XqEbqMRfo.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/cms_files/blog/AI.png
+File Name: D:\website\www.vadimap.com\cms_files\blog\AI.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/cms_files/blog/AI_applications_(1).png
+File Name: D:\website\www.vadimap.com\cms_files\blog\AI_applications_(1).png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/cms_files/blog/Dan_Boucher.jpg
+File Name: D:\website\www.vadimap.com\cms_files\blog\Dan_Boucher.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/cms_files/blog/DSC09342-Edit-scaled.jpg
+File Name: D:\website\www.vadimap.com\cms_files\blog\DSC09342-Edit-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/cms_files/blog/DSC09362-Edit-scaled.jpg
+File Name: D:\website\www.vadimap.com\cms_files\blog\DSC09362-Edit-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/cms_files/blog/google-ceo-sundar-pichai.jpg
+File Name: D:\website\www.vadimap.com\cms_files\blog\google-ceo-sundar-pichai.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/cms_files/blog/LEMAY-garage2.jpg
+File Name: D:\website\www.vadimap.com\cms_files\blog\LEMAY-garage2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/cms_files/blog/Lemay_facade.jpg
+File Name: D:\website\www.vadimap.com\cms_files\blog\Lemay_facade.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/cms_files/blog/portable_generator.jpg
+File Name: D:\website\www.vadimap.com\cms_files\blog\portable_generator.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/cms_files/blog/services-industries.jpg
+File Name: D:\website\www.vadimap.com\cms_files\blog\services-industries.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/cms_files/blog/signature_SamuelD_fr.jpg
+File Name: D:\website\www.vadimap.com\cms_files\blog\signature_SamuelD_fr.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/cms_files/blog/signature_SamuelD_fr_(1).jpg
+File Name: D:\website\www.vadimap.com\cms_files\blog\signature_SamuelD_fr_(1).jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/cms_files/blog/smart_thermostat.jpg
+File Name: D:\website\www.vadimap.com\cms_files\blog\smart_thermostat.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/cms_files/blog/solar_panels_with_batteries2.jpg
+File Name: D:\website\www.vadimap.com\cms_files\blog\solar_panels_with_batteries2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/cms_files/blog/standby_generator.jpg
+File Name: D:\website\www.vadimap.com\cms_files\blog\standby_generator.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/cms_files/blog/vadiMAP_-_Images_blogue.jpg
+File Name: D:\website\www.vadimap.com\cms_files\blog\vadiMAP_-_Images_blogue.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/cms_files/blog/xDSC09342-Edit-scaled.jpg.pagespeed.ic.5LXSuYI3h7.jpg
+File Name: D:\website\www.vadimap.com\cms_files\blog\xDSC09342-Edit-scaled.jpg.pagespeed.ic.5LXSuYI3h7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/cms_files/blog/xLEMAY-garage2.jpg.pagespeed.ic.5X51paSkXi.jpg
+File Name: D:\website\www.vadimap.com\cms_files\blog\xLEMAY-garage2.jpg.pagespeed.ic.5X51paSkXi.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/cms_files/blog/xLemay_facade.jpg.pagespeed.ic.ijpAJfoE2e.jpg
+File Name: D:\website\www.vadimap.com\cms_files\blog\xLemay_facade.jpg.pagespeed.ic.ijpAJfoE2e.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/cms_files/blog/xPicture1.jpg.pagespeed.ic.D2u0f9Dox2.jpg
+File Name: D:\website\www.vadimap.com\cms_files\blog\xPicture1.jpg.pagespeed.ic.D2u0f9Dox2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/cms_files/blog/xservices-industries.jpg.pagespeed.ic.wUs0pyLL_x.jpg
+File Name: D:\website\www.vadimap.com\cms_files\blog\xservices-industries.jpg.pagespeed.ic.wUs0pyLL_x.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/cms_files/blog/xstandby_generator.jpg.pagespeed.ic.r_megFDksP.jpg
+File Name: D:\website\www.vadimap.com\cms_files\blog\xstandby_generator.jpg.pagespeed.ic.r_megFDksP.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/cms_files/php00ym3m.pdf
+File Name: D:\website\www.vadimap.com\cms_files\php00ym3m.pdf
+Content Type: application/pdf
+
+Uri: https://www.vadimap.com/cms_files/php1Pw9iX.pdf
+File Name: D:\website\www.vadimap.com\cms_files\php1Pw9iX.pdf
+Content Type: application/pdf
+
+Uri: https://www.vadimap.com/cms_files/php2ziQH1.pdf
+File Name: D:\website\www.vadimap.com\cms_files\php2ziQH1.pdf
+Content Type: application/pdf
+
+Uri: https://www.vadimap.com/cms_files/php4LaKdb.pdf
+File Name: D:\website\www.vadimap.com\cms_files\php4LaKdb.pdf
+Content Type: application/pdf
+
+Uri: https://www.vadimap.com/cms_files/php9RUQCf.pdf
+File Name: D:\website\www.vadimap.com\cms_files\php9RUQCf.pdf
+Content Type: application/pdf
+
+Uri: https://www.vadimap.com/cms_files/phpagy5Cc.pdf
+File Name: D:\website\www.vadimap.com\cms_files\phpagy5Cc.pdf
+Content Type: application/pdf
+
+Uri: https://www.vadimap.com/cms_files/phpB7rsvO.pdf
+File Name: D:\website\www.vadimap.com\cms_files\phpB7rsvO.pdf
+Content Type: application/pdf
+
+Uri: https://www.vadimap.com/cms_files/phpBVGwJY.pdf
+File Name: D:\website\www.vadimap.com\cms_files\phpBVGwJY.pdf
+Content Type: application/pdf
+
+Uri: https://www.vadimap.com/cms_files/phpEEzQZS.pdf
+File Name: D:\website\www.vadimap.com\cms_files\phpEEzQZS.pdf
+Content Type: application/pdf
+
+Uri: https://www.vadimap.com/cms_files/phpH1t5qm.pdf
+File Name: D:\website\www.vadimap.com\cms_files\phpH1t5qm.pdf
+Content Type: application/pdf
+
+Uri: https://www.vadimap.com/cms_files/phpHrmoa4.pdf
+File Name: D:\website\www.vadimap.com\cms_files\phpHrmoa4.pdf
+Content Type: application/pdf
+
+Uri: https://www.vadimap.com/cms_files/phpiSfgHI.pdf
+File Name: D:\website\www.vadimap.com\cms_files\phpiSfgHI.pdf
+Content Type: application/pdf
+
+Uri: https://www.vadimap.com/cms_files/phpkICZui.pdf
+File Name: D:\website\www.vadimap.com\cms_files\phpkICZui.pdf
+Content Type: application/pdf
+
+Uri: https://www.vadimap.com/cms_files/phpl5ykfo.pdf
+File Name: D:\website\www.vadimap.com\cms_files\phpl5ykfo.pdf
+Content Type: application/pdf
+
+Uri: https://www.vadimap.com/cms_files/phppBrOVF.pdf
+File Name: D:\website\www.vadimap.com\cms_files\phppBrOVF.pdf
+Content Type: application/pdf
+
+Uri: https://www.vadimap.com/cms_files/phpST6vpM.pdf
+File Name: D:\website\www.vadimap.com\cms_files\phpST6vpM.pdf
+Content Type: application/pdf
+
+Uri: https://www.vadimap.com/cms_files/phpuiCdU0.pdf
+File Name: D:\website\www.vadimap.com\cms_files\phpuiCdU0.pdf
+Content Type: application/pdf
+
+Uri: https://www.vadimap.com/cms_files/phpyTDdxi.pdf
+File Name: D:\website\www.vadimap.com\cms_files\phpyTDdxi.pdf
+Content Type: application/pdf
+
+Uri: https://www.vadimap.com/contact-us
+File Name: D:\website\www.vadimap.com\contact-us.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/enterprise-planner
+File Name: D:\website\www.vadimap.com\enterprise-planner.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/fr/
+File Name: D:\website\www.vadimap.com\fr\index.htm
+Content Type: text/html
+
+Uri: https://www.vadimap.com/fr/about-us
+File Name: D:\website\www.vadimap.com\fr\about-us.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/fr/blog
+File Name: D:\website\www.vadimap.com\fr\blog.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/fr/blog/5-steps-to-a-net-zero-objective-for-your-organizations-a28
+File Name: D:\website\www.vadimap.com\fr\blog\5-steps-to-a-net-zero-objective-for-your-organizations-a28.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/fr/blog/aieq-conference-november-25th-2020-dan-boucher-ceo-vadimus-a6
+File Name: D:\website\www.vadimap.com\fr\blog\aieq-conference-november-25th-2020-dan-boucher-ceo-vadimus-a6.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/fr/blog/am-i-required-by-law-to-declare-the-energy-performance-of-my-building-a25
+File Name: D:\website\www.vadimap.com\fr\blog\am-i-required-by-law-to-declare-the-energy-performance-of-my-building-a25.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/fr/blog/calculating-the-real-impact-of-nanogrids-on-ghg-emissions-a13
+File Name: D:\website\www.vadimap.com\fr\blog\calculating-the-real-impact-of-nanogrids-on-ghg-emissions-a13.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/fr/blog/can-corporate-responsibility-help-my-business-attract-and-retain-talent-a21
+File Name: D:\website\www.vadimap.com\fr\blog\can-corporate-responsibility-help-my-business-attract-and-retain-talent-a21.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/fr/blog/congratulations-to-cidrerie-milton-our-winner-of-the-vadimap-prescription-report-a19
+File Name: D:\website\www.vadimap.com\fr\blog\congratulations-to-cidrerie-milton-our-winner-of-the-vadimap-prescription-report-a19.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/fr/blog/data-driven-decisions-with-vadimap-a5
+File Name: D:\website\www.vadimap.com\fr\blog\data-driven-decisions-with-vadimap-a5.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/fr/blog/generator-or-solar-panels-with-batteries-what-s-the-best-option-for-my-business-a20
+File Name: D:\website\www.vadimap.com\fr\blog\generator-or-solar-panels-with-batteries-what-s-the-best-option-for-my-business-a20.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/fr/blog/how-to-integrate-diversified-renewable-energies-into-a-commercial-industrial-or-institutional-building-a14
+File Name: D:\website\www.vadimap.com\fr\blog\how-to-integrate-diversified-renewable-energies-into-a-commercial-industrial-or-institutional-building-a14.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/fr/blog/how-to-protect-your-company-from-energy-price-fluctuations-a29
+File Name: D:\website\www.vadimap.com\fr\blog\how-to-protect-your-company-from-energy-price-fluctuations-a29.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/fr/blog/is-the-grid-of-the-future-like-juicy-fruit-a9
+File Name: D:\website\www.vadimap.com\fr\blog\is-the-grid-of-the-future-like-juicy-fruit-a9.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/fr/blog/renewable-energy-certificates-recs-nanogrids-or-both-a8
+File Name: D:\website\www.vadimap.com\fr\blog\renewable-energy-certificates-recs-nanogrids-or-both-a8.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/fr/blog/should-building-owners-bet-on-ai-to-be-net-zero-a27
+File Name: D:\website\www.vadimap.com\fr\blog\should-building-owners-bet-on-ai-to-be-net-zero-a27.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/fr/blog/solar-power-energy-vs-the-elements-a24
+File Name: D:\website\www.vadimap.com\fr\blog\solar-power-energy-vs-the-elements-a24.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/fr/blog/the-future-of-energy-storage-a26
+File Name: D:\website\www.vadimap.com\fr\blog\the-future-of-energy-storage-a26.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/fr/blog/vadimap-collaboration-to-accelerate-the-development-of-a-solution-a7
+File Name: D:\website\www.vadimap.com\fr\blog\vadimap-collaboration-to-accelerate-the-development-of-a-solution-a7.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/fr/blog/vadimap-energy-talk-1-with-mike-perrault-president-at-rematek-energy-a11
+File Name: D:\website\www.vadimap.com\fr\blog\vadimap-energy-talk-1-with-mike-perrault-president-at-rematek-energy-a11.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/fr/blog/what-incentives-are-available-for-businesses-in-alberta-british-colombia-and-saskatchewan-canada-to-help-the-transition-to-renewable-energies-a18
+File Name: D:\website\www.vadimap.com\fr\blog\what-incentives-are-available-for-businesses-in-alberta-british-colombia-and-saskatchewan-canada-to-help-the-transition-to-renewable-energies-a18.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/fr/blog/what-incentives-are-available-for-businesses-in-atlantic-canada-to-help-the-transition-to-renewable-energies-a16
+File Name: D:\website\www.vadimap.com\fr\blog\what-incentives-are-available-for-businesses-in-atlantic-canada-to-help-the-transition-to-renewable-energies-a16.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/fr/blog/what-incentives-are-available-for-businesses-in-ontario-canada-to-help-the-transition-to-renewable-energies-a17
+File Name: D:\website\www.vadimap.com\fr\blog\what-incentives-are-available-for-businesses-in-ontario-canada-to-help-the-transition-to-renewable-energies-a17.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/fr/blog/when-things-get-real-the-edmonton-convention-centre-a23
+File Name: D:\website\www.vadimap.com\fr\blog\when-things-get-real-the-edmonton-convention-centre-a23.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/fr/blog/when-things-get-real-the-lemay-project-a22
+File Name: D:\website\www.vadimap.com\fr\blog\when-things-get-real-the-lemay-project-a22.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/fr/careers
+File Name: D:\website\www.vadimap.com\fr\careers.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/fr/case-studies
+File Name: D:\website\www.vadimap.com\fr\case-studies.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/fr/contact-us
+File Name: D:\website\www.vadimap.com\fr\contact-us.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/fr/enterprise-planner
+File Name: D:\website\www.vadimap.com\fr\enterprise-planner.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/fr/free-calculator
+File Name: D:\website\www.vadimap.com\fr\free-calculator.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/fr/images/xdiagram_values.png.pagespeed.ic.51sHZ2naF8.png
+File Name: D:\website\www.vadimap.com\fr\images\xdiagram_values.png.pagespeed.ic.51sHZ2naF8.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/fr/mapremium-subscription
+File Name: D:\website\www.vadimap.com\fr\mapremium-subscription.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/fr/news
+File Name: D:\website\www.vadimap.com\fr\news.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/fr/our-team
+File Name: D:\website\www.vadimap.com\fr\our-team.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/fr/pricing
+File Name: D:\website\www.vadimap.com\fr\pricing.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/fr/privacy-policy
+File Name: D:\website\www.vadimap.com\fr\privacy-policy.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/fr/vadimap-prescription
+File Name: D:\website\www.vadimap.com\fr\vadimap-prescription.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/fr/vadimap-prescription?buyonline
+File Name: D:\website\www.vadimap.com\fr\vadimap-prescription-1.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/fr/videos
+File Name: D:\website\www.vadimap.com\fr\videos.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/free-calculator
+File Name: D:\website\www.vadimap.com\free-calculator.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/functions.js+jquery.smooth-scroll-1.7.1.min.js.pagespeed.jc.Q59SMZV66a.js
+File Name: D:\website\www.vadimap.com\functions.js jquery.smooth-scroll-1.7.1.min.js.pagespeed.jc.Q59SMZV66a.js
+Content Type: application/javascript
+
+Uri: https://www.vadimap.com/functions_payment.js.pagespeed.jm.ys3KW43tRp.js
+File Name: D:\website\www.vadimap.com\functions_payment.js.pagespeed.jm.ys3KW43tRp.js
+Content Type: application/javascript
+
+Uri: https://www.vadimap.com/home_video_2023_720.mp4
+File Name: D:\website\www.vadimap.com\home_video_2023_720.mp4
+Content Type: video/mp4
+
+Uri: https://www.vadimap.com/images/header_about_us.jpg?v=20022023
+File Name: D:\website\www.vadimap.com\images\header_about_us.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/images/header_careers.jpg?v=20022023
+File Name: D:\website\www.vadimap.com\images\header_careers.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/images/header_cases.jpg?v=30032023
+File Name: D:\website\www.vadimap.com\images\header_cases.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/images/header_enterprise.jpg?v=20022023
+File Name: D:\website\www.vadimap.com\images\header_enterprise.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/images/header_mapremium.jpg?v=20022023
+File Name: D:\website\www.vadimap.com\images\header_mapremium.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/images/header_our_team.jpg?v=20022023
+File Name: D:\website\www.vadimap.com\images\header_our_team.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/images/header_prescription.jpg?v=20022023
+File Name: D:\website\www.vadimap.com\images\header_prescription.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/images/header_videos.jpg?v=20022023
+File Name: D:\website\www.vadimap.com\images\header_videos.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/images/na_video.png
+File Name: D:\website\www.vadimap.com\images\na_video.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/images/p_dan_boucher.jpg
+File Name: D:\website\www.vadimap.com\images\p_dan_boucher.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/images/p_nicolas_mary.jpg
+File Name: D:\website\www.vadimap.com\images\p_nicolas_mary.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/images/screen_enterprise_planner.gif
+File Name: D:\website\www.vadimap.com\images\screen_enterprise_planner.gif
+Content Type: image/gif
+
+Uri: https://www.vadimap.com/images/x1.png.pagespeed.ic.qY-DXcU9_5.png
+File Name: D:\website\www.vadimap.com\images\x1.png.pagespeed.ic.qY-DXcU9_5.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/images/x2.png.pagespeed.ic.gz5SNA7zAp.png
+File Name: D:\website\www.vadimap.com\images\x2.png.pagespeed.ic.gz5SNA7zAp.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/images/x3.png.pagespeed.ic.aTK0hV8XHj.png
+File Name: D:\website\www.vadimap.com\images\x3.png.pagespeed.ic.aTK0hV8XHj.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/images/xbackground_earth.jpg.pagespeed.ic.fV8NXZs8tM.jpg
+File Name: D:\website\www.vadimap.com\images\xbackground_earth.jpg.pagespeed.ic.fV8NXZs8tM.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/images/xbackground_map.jpg.pagespeed.ic.1GAjc1Q4eg.jpg
+File Name: D:\website\www.vadimap.com\images\xbackground_map.jpg.pagespeed.ic.1GAjc1Q4eg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/images/xbackground_prescription.jpg.pagespeed.ic.duK7SD72c1.jpg
+File Name: D:\website\www.vadimap.com\images\xbackground_prescription.jpg.pagespeed.ic.duK7SD72c1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/images/xcase_arrow.png.pagespeed.ic.mSQumcYs4y.png
+File Name: D:\website\www.vadimap.com\images\xcase_arrow.png.pagespeed.ic.mSQumcYs4y.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/images/xdiagram_mapremium.png.pagespeed.ic.MzCV04hj3F.png
+File Name: D:\website\www.vadimap.com\images\xdiagram_mapremium.png.pagespeed.ic.MzCV04hj3F.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/images/xdiagram_values.png.pagespeed.ic.51hVeDuj05.png
+File Name: D:\website\www.vadimap.com\images\xdiagram_values.png.pagespeed.ic.51hVeDuj05.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/images/xheader_about_us.jpg,qv=20022023.pagespeed.ic.v-ZoWHHnfz.jpg
+File Name: D:\website\www.vadimap.com\images\xheader_about_us.jpg,qv=20022023.pagespeed.ic.v-ZoWHHnfz.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/images/xheader_blog.jpg,qv=20022023.pagespeed.ic.-eTePfhUTG.jpg
+File Name: D:\website\www.vadimap.com\images\xheader_blog.jpg,qv=20022023.pagespeed.ic.-eTePfhUTG.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/images/xheader_calculator.jpg,qv=20022023.pagespeed.ic.p-ZfbcQnZ_.jpg
+File Name: D:\website\www.vadimap.com\images\xheader_calculator.jpg,qv=20022023.pagespeed.ic.p-ZfbcQnZ_.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/images/xheader_cases.jpg,qv=30032023.pagespeed.ic.lTdlxY6R0U.jpg
+File Name: D:\website\www.vadimap.com\images\xheader_cases.jpg,qv=30032023.pagespeed.ic.lTdlxY6R0U.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/images/xheader_contact_us.jpg,qv=20022023.pagespeed.ic.UkdXuGg8RG.jpg
+File Name: D:\website\www.vadimap.com\images\xheader_contact_us.jpg,qv=20022023.pagespeed.ic.UkdXuGg8RG.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/images/xheader_home_2023.jpg,qv=20022023.pagespeed.ic.YOin2RC86s.jpg
+File Name: D:\website\www.vadimap.com\images\xheader_home_2023.jpg,qv=20022023.pagespeed.ic.YOin2RC86s.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/images/xheader_news.jpg,qv=20022023.pagespeed.ic.b9bCvtjq5t.jpg
+File Name: D:\website\www.vadimap.com\images\xheader_news.jpg,qv=20022023.pagespeed.ic.b9bCvtjq5t.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/images/xheader_our_team.jpg,qv=20022023.pagespeed.ic.u6y-BAI_na.jpg
+File Name: D:\website\www.vadimap.com\images\xheader_our_team.jpg,qv=20022023.pagespeed.ic.u6y-BAI_na.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/images/xheader_prescription.jpg,qv=20022023.pagespeed.ic.ey3Wmb7Y6p.jpg
+File Name: D:\website\www.vadimap.com\images\xheader_prescription.jpg,qv=20022023.pagespeed.ic.ey3Wmb7Y6p.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/images/xheader_pricing.jpg,qv=20022023.pagespeed.ic.l7eSTprl5N.jpg
+File Name: D:\website\www.vadimap.com\images\xheader_pricing.jpg,qv=20022023.pagespeed.ic.l7eSTprl5N.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/images/xheader_videos.jpg,qv=20022023.pagespeed.ic.kXQhSqzK4U.jpg
+File Name: D:\website\www.vadimap.com\images\xheader_videos.jpg,qv=20022023.pagespeed.ic.kXQhSqzK4U.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/images/xicons_bar.png.pagespeed.ic.QWiQjufQnA.png
+File Name: D:\website\www.vadimap.com\images\xicons_bar.png.pagespeed.ic.QWiQjufQnA.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/images/xicons_bar_m.png.pagespeed.ic.GJ1mRqd_gf.png
+File Name: D:\website\www.vadimap.com\images\xicons_bar_m.png.pagespeed.ic.GJ1mRqd_gf.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/images/xicon_building.png.pagespeed.ic.8r108hfO6i.png
+File Name: D:\website\www.vadimap.com\images\xicon_building.png.pagespeed.ic.8r108hfO6i.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/images/xicon_cases_1.png.pagespeed.ic.FyHR5LQk9u.png
+File Name: D:\website\www.vadimap.com\images\xicon_cases_1.png.pagespeed.ic.FyHR5LQk9u.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/images/xicon_cases_10.png.pagespeed.ic.7aHBL4GNJa.png
+File Name: D:\website\www.vadimap.com\images\xicon_cases_10.png.pagespeed.ic.7aHBL4GNJa.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/images/xicon_cases_11.png.pagespeed.ic.scbtiewxGL.png
+File Name: D:\website\www.vadimap.com\images\xicon_cases_11.png.pagespeed.ic.scbtiewxGL.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/images/xicon_cases_2.png.pagespeed.ic.w8UqcJGlrp.png
+File Name: D:\website\www.vadimap.com\images\xicon_cases_2.png.pagespeed.ic.w8UqcJGlrp.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/images/xicon_cases_5.png.pagespeed.ic.aWjGM0v-8D.png
+File Name: D:\website\www.vadimap.com\images\xicon_cases_5.png.pagespeed.ic.aWjGM0v-8D.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/images/xicon_cases_6.png.pagespeed.ic.htpYQywM7L.png
+File Name: D:\website\www.vadimap.com\images\xicon_cases_6.png.pagespeed.ic.htpYQywM7L.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/images/xicon_cases_7.png.pagespeed.ic.7W4V7k1oL-.png
+File Name: D:\website\www.vadimap.com\images\xicon_cases_7.png.pagespeed.ic.7W4V7k1oL-.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/images/xicon_cases_8.png.pagespeed.ic.yuaBpfcrDY.png
+File Name: D:\website\www.vadimap.com\images\xicon_cases_8.png.pagespeed.ic.yuaBpfcrDY.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/images/xicon_cases_9.png.pagespeed.ic.FRD9Y7yIjY.png
+File Name: D:\website\www.vadimap.com\images\xicon_cases_9.png.pagespeed.ic.FRD9Y7yIjY.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/images/xicon_cases_large_1.png.pagespeed.ic.NOV6J--WQW.png
+File Name: D:\website\www.vadimap.com\images\xicon_cases_large_1.png.pagespeed.ic.NOV6J--WQW.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/images/xicon_cases_large_2.png.pagespeed.ic.VZPyhOnmaE.png
+File Name: D:\website\www.vadimap.com\images\xicon_cases_large_2.png.pagespeed.ic.VZPyhOnmaE.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/images/xicon_cases_large_3.png.pagespeed.ic.Qw-042saSW.png
+File Name: D:\website\www.vadimap.com\images\xicon_cases_large_3.png.pagespeed.ic.Qw-042saSW.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/images/xicon_energy.png.pagespeed.ic.iojgZrpz7-.png
+File Name: D:\website\www.vadimap.com\images\xicon_energy.png.pagespeed.ic.iojgZrpz7-.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/images/xicon_fast_food.png.pagespeed.ic._Qmhf1s4vd.png
+File Name: D:\website\www.vadimap.com\images\xicon_fast_food.png.pagespeed.ic._Qmhf1s4vd.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/images/xicon_leaf.png.pagespeed.ic.XzIRSHojyg.png
+File Name: D:\website\www.vadimap.com\images\xicon_leaf.png.pagespeed.ic.XzIRSHojyg.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/images/xicon_non_profit.png.pagespeed.ic.lo76NF5i8x.png
+File Name: D:\website\www.vadimap.com\images\xicon_non_profit.png.pagespeed.ic.lo76NF5i8x.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/images/xicon_pharmacy.png.pagespeed.ic.zAAisg4zKW.png
+File Name: D:\website\www.vadimap.com\images\xicon_pharmacy.png.pagespeed.ic.zAAisg4zKW.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/images/xicon_pig.png.pagespeed.ic.h39hI4Y7tl.png
+File Name: D:\website\www.vadimap.com\images\xicon_pig.png.pagespeed.ic.h39hI4Y7tl.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/images/xicon_plug.png.pagespeed.ic.VFeh9a_0Xc.png
+File Name: D:\website\www.vadimap.com\images\xicon_plug.png.pagespeed.ic.VFeh9a_0Xc.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/images/xicon_school.png.pagespeed.ic.9gILDg30v9.png
+File Name: D:\website\www.vadimap.com\images\xicon_school.png.pagespeed.ic.9gILDg30v9.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/images/xlaptop.jpg.pagespeed.ic.Y2t8WzczFD.jpg
+File Name: D:\website\www.vadimap.com\images\xlaptop.jpg.pagespeed.ic.Y2t8WzczFD.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/images/xlogo.png.pagespeed.ic.DBhs1Zlpex.png
+File Name: D:\website\www.vadimap.com\images\xlogo.png.pagespeed.ic.DBhs1Zlpex.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/images/xlogo_desjardins.png.pagespeed.ic.dpCsjFmnst.png
+File Name: D:\website\www.vadimap.com\images\xlogo_desjardins.png.pagespeed.ic.dpCsjFmnst.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/images/xlogo_eureka.png.pagespeed.ic.9oRg313Ha3.png
+File Name: D:\website\www.vadimap.com\images\xlogo_eureka.png.pagespeed.ic.9oRg313Ha3.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/images/xlogo_lafak.png.pagespeed.ic.Zs3FhkGYta.png
+File Name: D:\website\www.vadimap.com\images\xlogo_lafak.png.pagespeed.ic.Zs3FhkGYta.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/images/xlogo_large.png.pagespeed.ic.cYiWRl8OC3.png
+File Name: D:\website\www.vadimap.com\images\xlogo_large.png.pagespeed.ic.cYiWRl8OC3.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/images/xlogo_port_mtl.png.pagespeed.ic.yKlpDCmz9p.png
+File Name: D:\website\www.vadimap.com\images\xlogo_port_mtl.png.pagespeed.ic.yKlpDCmz9p.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/images/xlogo_shawinigan.png.pagespeed.ic.7JBEuWO58b.png
+File Name: D:\website\www.vadimap.com\images\xlogo_shawinigan.png.pagespeed.ic.7JBEuWO58b.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/images/xlogo_sif.png.pagespeed.ic.ZR-d_pC-nM.png
+File Name: D:\website\www.vadimap.com\images\xlogo_sif.png.pagespeed.ic.ZR-d_pC-nM.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/images/xmap_canada.png,qv=06052022.pagespeed.ic.zAM40WMvDq.png
+File Name: D:\website\www.vadimap.com\images\xmap_canada.png,qv=06052022.pagespeed.ic.zAM40WMvDq.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/images/xmap_usa.png,qv=06052022b.pagespeed.ic.M3VGbQMK0z.png
+File Name: D:\website\www.vadimap.com\images\xmap_usa.png,qv=06052022b.pagespeed.ic.M3VGbQMK0z.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/images/xp_about_history.jpg.pagespeed.ic.prx2nhxWoo.jpg
+File Name: D:\website\www.vadimap.com\images\xp_about_history.jpg.pagespeed.ic.prx2nhxWoo.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/images/xp_careers.jpg.pagespeed.ic.k3QjfAbo0K.jpg
+File Name: D:\website\www.vadimap.com\images\xp_careers.jpg.pagespeed.ic.k3QjfAbo0K.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/images/xp_charles_girardet.jpg.pagespeed.ic.pOwp_vu3Xa.jpg
+File Name: D:\website\www.vadimap.com\images\xp_charles_girardet.jpg.pagespeed.ic.pOwp_vu3Xa.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/images/xp_jeremy_boucher.jpg.pagespeed.ic.A1DUBLQFrB.jpg
+File Name: D:\website\www.vadimap.com\images\xp_jeremy_boucher.jpg.pagespeed.ic.A1DUBLQFrB.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/images/xp_lucas_batier.jpg.pagespeed.ic.010Nv5JSJN.jpg
+File Name: D:\website\www.vadimap.com\images\xp_lucas_batier.jpg.pagespeed.ic.010Nv5JSJN.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/images/xp_samuel_durette.jpg.pagespeed.ic.5Wu3gBMG2-.jpg
+File Name: D:\website\www.vadimap.com\images\xp_samuel_durette.jpg.pagespeed.ic.5Wu3gBMG2-.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/images/xp_samuel_durette_solarimpulse.jpg.pagespeed.ic.pHq8YMXeWS.jpg
+File Name: D:\website\www.vadimap.com\images\xp_samuel_durette_solarimpulse.jpg.pagespeed.ic.pHq8YMXeWS.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/images/xscreen_enterprise_planner_background.png.pagespeed.ic.C_FcYtA9Jy.png
+File Name: D:\website\www.vadimap.com\images\xscreen_enterprise_planner_background.png.pagespeed.ic.C_FcYtA9Jy.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/images/xscreen_enterprise_prioritize.png.pagespeed.ic.xQ7LHe3KQ6.png
+File Name: D:\website\www.vadimap.com\images\xscreen_enterprise_prioritize.png.pagespeed.ic.xQ7LHe3KQ6.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/images/xscreen_enterprise_report.png,qv=22022023.pagespeed.ic.i_ZWZEbgwG.png
+File Name: D:\website\www.vadimap.com\images\xscreen_enterprise_report.png,qv=22022023.pagespeed.ic.i_ZWZEbgwG.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/images/xscreen_enterprise_track.png.pagespeed.ic.U8-gwoyPf2.png
+File Name: D:\website\www.vadimap.com\images\xscreen_enterprise_track.png.pagespeed.ic.U8-gwoyPf2.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/images/xscreen_home_2.png.pagespeed.ic.-4pZ5TYQLQ.png
+File Name: D:\website\www.vadimap.com\images\xscreen_home_2.png.pagespeed.ic.-4pZ5TYQLQ.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/images/xscreen_home_3.png.pagespeed.ic.KxTKz_40Xu.png
+File Name: D:\website\www.vadimap.com\images\xscreen_home_3.png.pagespeed.ic.KxTKz_40Xu.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/images/xscreen_prescription.png.pagespeed.ic.Q_qvZO2Hgc.png
+File Name: D:\website\www.vadimap.com\images\xscreen_prescription.png.pagespeed.ic.Q_qvZO2Hgc.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/images/xscreen_subscription_dashboard.png.pagespeed.ic.GOOBcQQ3vQ.png
+File Name: D:\website\www.vadimap.com\images\xscreen_subscription_dashboard.png.pagespeed.ic.GOOBcQQ3vQ.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/images/xscreen_subscription_support.png.pagespeed.ic.DF4KJVSqXU.png
+File Name: D:\website\www.vadimap.com\images\xscreen_subscription_support.png.pagespeed.ic.DF4KJVSqXU.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/images/xscreen_subscription_tracking.png.pagespeed.ic.7mlsbQu7_B.png
+File Name: D:\website\www.vadimap.com\images\xscreen_subscription_tracking.png.pagespeed.ic.7mlsbQu7_B.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/images/xscreen_vadimap_prescription.png.pagespeed.ic.J2__wvzh1C.png
+File Name: D:\website\www.vadimap.com\images\xscreen_vadimap_prescription.png.pagespeed.ic.J2__wvzh1C.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/images/xvadimap_animation.jpg.pagespeed.ic.5BhZ6Q32r4.jpg
+File Name: D:\website\www.vadimap.com\images\xvadimap_animation.jpg.pagespeed.ic.5BhZ6Q32r4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/image_th-php0Ba8qi-jpg-w990h0c0np
+File Name: D:\website\www.vadimap.com\image_th-php0Ba8qi-jpg-w990h0c0np
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/image_th-php0eKSxK-jpg-w990h0c0np
+File Name: D:\website\www.vadimap.com\image_th-php0eKSxK-jpg-w990h0c0np
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/image_th-php2xnN2x-jpg-w990h0c0np
+File Name: D:\website\www.vadimap.com\image_th-php2xnN2x-jpg-w990h0c0np
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/image_th-php4kB7xO-jpg-w990h0c0np
+File Name: D:\website\www.vadimap.com\image_th-php4kB7xO-jpg-w990h0c0np
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/image_th-php5np9GG-jpg-w990h0c0np
+File Name: D:\website\www.vadimap.com\image_th-php5np9GG-jpg-w990h0c0np
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/image_th-phpD9jUDt-jpg-w990h0c0np
+File Name: D:\website\www.vadimap.com\image_th-phpD9jUDt-jpg-w990h0c0np
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/image_th-phpEhPlcn-jpg-w990h0c0np
+File Name: D:\website\www.vadimap.com\image_th-phpEhPlcn-jpg-w990h0c0np
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/image_th-phpgfgGzU-jpg-w990h0c0np
+File Name: D:\website\www.vadimap.com\image_th-phpgfgGzU-jpg-w990h0c0np
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/image_th-phpggIiUo-jpg-w990h0c0np
+File Name: D:\website\www.vadimap.com\image_th-phpggIiUo-jpg-w990h0c0np
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/image_th-phpI1PZup-jpg-w990h0c0np
+File Name: D:\website\www.vadimap.com\image_th-phpI1PZup-jpg-w990h0c0np
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/image_th-phpikByXM-png-w990h0c0np
+File Name: D:\website\www.vadimap.com\image_th-phpikByXM-png-w990h0c0np
+Content Type: image/png
+
+Uri: https://www.vadimap.com/image_th-phpKG2JuO-jpg-w990h0c0np
+File Name: D:\website\www.vadimap.com\image_th-phpKG2JuO-jpg-w990h0c0np
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/image_th-phpMAk1Vc-jpg-w990h0c0np
+File Name: D:\website\www.vadimap.com\image_th-phpMAk1Vc-jpg-w990h0c0np
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/image_th-phpOzVSnh-jpg-w990h0c0np
+File Name: D:\website\www.vadimap.com\image_th-phpOzVSnh-jpg-w990h0c0np
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/image_th-phpp2ihEp-jpg-w990h0c0np
+File Name: D:\website\www.vadimap.com\image_th-phpp2ihEp-jpg-w990h0c0np
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/image_th-phppnhMmv-jpg-w990h0c0np
+File Name: D:\website\www.vadimap.com\image_th-phppnhMmv-jpg-w990h0c0np
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/image_th-phpQpQIq1-jpg-w990h0c0np
+File Name: D:\website\www.vadimap.com\image_th-phpQpQIq1-jpg-w990h0c0np
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/image_th-phpT0WDf0-jpg-w990h0c0np
+File Name: D:\website\www.vadimap.com\image_th-phpT0WDf0-jpg-w990h0c0np
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/jquery-3.6.1.min.js.pagespeed.jm.9QZjzretGh.js
+File Name: D:\website\www.vadimap.com\jquery-3.6.1.min.js.pagespeed.jm.9QZjzretGh.js
+Content Type: application/javascript
+
+Uri: https://www.vadimap.com/jquery.imagemapster.min.js,qv050502022+donut-chart.js.pagespeed.jc.GtUC4n7SaG.js
+File Name: D:\website\www.vadimap.com\jquery.imagemapster.min.js,qv050502022 donut-chart.js.pagespeed.jc.GtUC4n7SaG.js
+Content Type: application/javascript
+
+Uri: https://www.vadimap.com/mapremium-subscription
+File Name: D:\website\www.vadimap.com\mapremium-subscription.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/news
+File Name: D:\website\www.vadimap.com\news.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/our-team
+File Name: D:\website\www.vadimap.com\our-team.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/pricing
+File Name: D:\website\www.vadimap.com\pricing.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/privacy-policy
+File Name: D:\website\www.vadimap.com\privacy-policy.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/stylesheet.css
+File Name: D:\website\www.vadimap.com\stylesheet.css
+Content Type: text/css
+
+Uri: https://www.vadimap.com/vadimap-prescription
+File Name: D:\website\www.vadimap.com\vadimap-prescription.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/vadimap-prescription?buyonline
+File Name: D:\website\www.vadimap.com\vadimap-prescription-1.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/videos
+File Name: D:\website\www.vadimap.com\videos.html
+Content Type: text/html
+
+Uri: https://www.vadimap.com/ximage_th-php0Ba8qi-jpg-w380h285c1np.pagespeed.ic.VicX9__gnp.jpg
+File Name: D:\website\www.vadimap.com\ximage_th-php0Ba8qi-jpg-w380h285c1np.pagespeed.ic.VicX9__gnp.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/ximage_th-php0Ba8qi-jpg-w990h0c0np.pagespeed.ic.QFe_OcM9zH.jpg
+File Name: D:\website\www.vadimap.com\ximage_th-php0Ba8qi-jpg-w990h0c0np.pagespeed.ic.QFe_OcM9zH.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/ximage_th-php0eKSxK-jpg-w380h285c1np.pagespeed.ic.QB8YrTD-Fe.jpg
+File Name: D:\website\www.vadimap.com\ximage_th-php0eKSxK-jpg-w380h285c1np.pagespeed.ic.QB8YrTD-Fe.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/ximage_th-php0eKSxK-jpg-w990h0c0np.pagespeed.ic.8L2_6AxqyE.jpg
+File Name: D:\website\www.vadimap.com\ximage_th-php0eKSxK-jpg-w990h0c0np.pagespeed.ic.8L2_6AxqyE.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/ximage_th-php2xnN2x-jpg-w380h285c1np.pagespeed.ic.B5Tn2hOYkJ.jpg
+File Name: D:\website\www.vadimap.com\ximage_th-php2xnN2x-jpg-w380h285c1np.pagespeed.ic.B5Tn2hOYkJ.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/ximage_th-php2xnN2x-jpg-w990h0c0np.pagespeed.ic.VaFN195VB8.jpg
+File Name: D:\website\www.vadimap.com\ximage_th-php2xnN2x-jpg-w990h0c0np.pagespeed.ic.VaFN195VB8.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/ximage_th-php4kB7xO-jpg-w380h285c1np.pagespeed.ic.fOGsyecInq.jpg
+File Name: D:\website\www.vadimap.com\ximage_th-php4kB7xO-jpg-w380h285c1np.pagespeed.ic.fOGsyecInq.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/ximage_th-php4kB7xO-jpg-w990h0c0np.pagespeed.ic.GipYM85UCy.jpg
+File Name: D:\website\www.vadimap.com\ximage_th-php4kB7xO-jpg-w990h0c0np.pagespeed.ic.GipYM85UCy.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/ximage_th-php5np9GG-jpg-w380h285c1np.pagespeed.ic.2LGBfuKD2r.jpg
+File Name: D:\website\www.vadimap.com\ximage_th-php5np9GG-jpg-w380h285c1np.pagespeed.ic.2LGBfuKD2r.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/ximage_th-php5np9GG-jpg-w990h0c0np.pagespeed.ic.ik47YZWTNl.jpg
+File Name: D:\website\www.vadimap.com\ximage_th-php5np9GG-jpg-w990h0c0np.pagespeed.ic.ik47YZWTNl.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/ximage_th-phpctP4nA-png-w380h285c1np.pagespeed.ic.E9W-UwfXiH.jpg
+File Name: D:\website\www.vadimap.com\ximage_th-phpctP4nA-png-w380h285c1np.pagespeed.ic.E9W-UwfXiH.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/ximage_th-phpctP4nA-png-w990h0c0np.pagespeed.ic.QIV99koaZs.jpg
+File Name: D:\website\www.vadimap.com\ximage_th-phpctP4nA-png-w990h0c0np.pagespeed.ic.QIV99koaZs.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/ximage_th-phpD9jUDt-jpg-w380h285c1np.pagespeed.ic.uGsnBmjmAO.jpg
+File Name: D:\website\www.vadimap.com\ximage_th-phpD9jUDt-jpg-w380h285c1np.pagespeed.ic.uGsnBmjmAO.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/ximage_th-phpD9jUDt-jpg-w990h0c0np.pagespeed.ic.kJ3_mJDgrk.jpg
+File Name: D:\website\www.vadimap.com\ximage_th-phpD9jUDt-jpg-w990h0c0np.pagespeed.ic.kJ3_mJDgrk.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/ximage_th-phpdawGGf-jpg-w380h285c1np.pagespeed.ic.wOPbr3mz_a.jpg
+File Name: D:\website\www.vadimap.com\ximage_th-phpdawGGf-jpg-w380h285c1np.pagespeed.ic.wOPbr3mz_a.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/ximage_th-phpdawGGf-jpg-w990h0c0np.pagespeed.ic.EcLdpn5kJk.jpg
+File Name: D:\website\www.vadimap.com\ximage_th-phpdawGGf-jpg-w990h0c0np.pagespeed.ic.EcLdpn5kJk.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/ximage_th-phpEhPlcn-jpg-w380h285c1np.pagespeed.ic.QtFkRJH6kB.jpg
+File Name: D:\website\www.vadimap.com\ximage_th-phpEhPlcn-jpg-w380h285c1np.pagespeed.ic.QtFkRJH6kB.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/ximage_th-phpEhPlcn-jpg-w990h0c0np.pagespeed.ic.04FyRqh2na.jpg
+File Name: D:\website\www.vadimap.com\ximage_th-phpEhPlcn-jpg-w990h0c0np.pagespeed.ic.04FyRqh2na.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/ximage_th-phpgfgGzU-jpg-w380h285c1np.pagespeed.ic.Fg4ttPvVjz.jpg
+File Name: D:\website\www.vadimap.com\ximage_th-phpgfgGzU-jpg-w380h285c1np.pagespeed.ic.Fg4ttPvVjz.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/ximage_th-phpgfgGzU-jpg-w990h0c0np.pagespeed.ic.VWa-n-1oZ-.jpg
+File Name: D:\website\www.vadimap.com\ximage_th-phpgfgGzU-jpg-w990h0c0np.pagespeed.ic.VWa-n-1oZ-.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/ximage_th-phpggIiUo-jpg-w380h285c1np.pagespeed.ic.m0Z4Vh_sr9.jpg
+File Name: D:\website\www.vadimap.com\ximage_th-phpggIiUo-jpg-w380h285c1np.pagespeed.ic.m0Z4Vh_sr9.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/ximage_th-phpggIiUo-jpg-w990h0c0np.pagespeed.ic.ANVZX_FiTJ.jpg
+File Name: D:\website\www.vadimap.com\ximage_th-phpggIiUo-jpg-w990h0c0np.pagespeed.ic.ANVZX_FiTJ.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/ximage_th-phpI1PZup-jpg-w380h285c1np.pagespeed.ic.9Rl28omdqI.jpg
+File Name: D:\website\www.vadimap.com\ximage_th-phpI1PZup-jpg-w380h285c1np.pagespeed.ic.9Rl28omdqI.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/ximage_th-phpI1PZup-jpg-w990h0c0np.pagespeed.ic.5jQh9B6dTA.jpg
+File Name: D:\website\www.vadimap.com\ximage_th-phpI1PZup-jpg-w990h0c0np.pagespeed.ic.5jQh9B6dTA.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/ximage_th-phpikByXM-png-w380h285c1np.pagespeed.ic.YsW55FnHwO.png
+File Name: D:\website\www.vadimap.com\ximage_th-phpikByXM-png-w380h285c1np.pagespeed.ic.YsW55FnHwO.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/ximage_th-phpikByXM-png-w990h0c0np.pagespeed.ic.VMUzYTuMDS.png
+File Name: D:\website\www.vadimap.com\ximage_th-phpikByXM-png-w990h0c0np.pagespeed.ic.VMUzYTuMDS.png
+Content Type: image/png
+
+Uri: https://www.vadimap.com/ximage_th-phpKG2JuO-jpg-w380h285c1np.pagespeed.ic.pkVBfBwQfm.jpg
+File Name: D:\website\www.vadimap.com\ximage_th-phpKG2JuO-jpg-w380h285c1np.pagespeed.ic.pkVBfBwQfm.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/ximage_th-phpKG2JuO-jpg-w990h0c0np.pagespeed.ic.yX74Z-pusr.jpg
+File Name: D:\website\www.vadimap.com\ximage_th-phpKG2JuO-jpg-w990h0c0np.pagespeed.ic.yX74Z-pusr.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/ximage_th-phpMAk1Vc-jpg-w380h285c1np.pagespeed.ic.uSZ0T9piUE.jpg
+File Name: D:\website\www.vadimap.com\ximage_th-phpMAk1Vc-jpg-w380h285c1np.pagespeed.ic.uSZ0T9piUE.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/ximage_th-phpMAk1Vc-jpg-w990h0c0np.pagespeed.ic.BYAH9vw5DJ.jpg
+File Name: D:\website\www.vadimap.com\ximage_th-phpMAk1Vc-jpg-w990h0c0np.pagespeed.ic.BYAH9vw5DJ.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/ximage_th-phpOzVSnh-jpg-w380h285c1np.pagespeed.ic.1e0-XJIqh5.jpg
+File Name: D:\website\www.vadimap.com\ximage_th-phpOzVSnh-jpg-w380h285c1np.pagespeed.ic.1e0-XJIqh5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/ximage_th-phpOzVSnh-jpg-w990h0c0np.pagespeed.ic.We19uWYQl4.jpg
+File Name: D:\website\www.vadimap.com\ximage_th-phpOzVSnh-jpg-w990h0c0np.pagespeed.ic.We19uWYQl4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/ximage_th-phpp2ihEp-jpg-w380h285c1np.pagespeed.ic.evpysS4S8Y.jpg
+File Name: D:\website\www.vadimap.com\ximage_th-phpp2ihEp-jpg-w380h285c1np.pagespeed.ic.evpysS4S8Y.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/ximage_th-phpp2ihEp-jpg-w990h0c0np.pagespeed.ic.-RXWKO9jN2.jpg
+File Name: D:\website\www.vadimap.com\ximage_th-phpp2ihEp-jpg-w990h0c0np.pagespeed.ic.-RXWKO9jN2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/ximage_th-phppnhMmv-jpg-w380h285c1np.pagespeed.ic.UL-cRQ-qqJ.jpg
+File Name: D:\website\www.vadimap.com\ximage_th-phppnhMmv-jpg-w380h285c1np.pagespeed.ic.UL-cRQ-qqJ.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/ximage_th-phppnhMmv-jpg-w990h0c0np.pagespeed.ic.xYvLJrpKuZ.jpg
+File Name: D:\website\www.vadimap.com\ximage_th-phppnhMmv-jpg-w990h0c0np.pagespeed.ic.xYvLJrpKuZ.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/ximage_th-phpQpQIq1-jpg-w380h285c1np.pagespeed.ic.kD6kihvhSE.jpg
+File Name: D:\website\www.vadimap.com\ximage_th-phpQpQIq1-jpg-w380h285c1np.pagespeed.ic.kD6kihvhSE.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/ximage_th-phpQpQIq1-jpg-w990h0c0np.pagespeed.ic.GWKszGvx8g.jpg
+File Name: D:\website\www.vadimap.com\ximage_th-phpQpQIq1-jpg-w990h0c0np.pagespeed.ic.GWKszGvx8g.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/ximage_th-phpsVK8Qt-jpg-w380h285c1np.pagespeed.ic.4UineSvRLu.jpg
+File Name: D:\website\www.vadimap.com\ximage_th-phpsVK8Qt-jpg-w380h285c1np.pagespeed.ic.4UineSvRLu.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/ximage_th-phpsVK8Qt-jpg-w990h0c0np.pagespeed.ic.181XPDgMvP.jpg
+File Name: D:\website\www.vadimap.com\ximage_th-phpsVK8Qt-jpg-w990h0c0np.pagespeed.ic.181XPDgMvP.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/ximage_th-phpT0WDf0-jpg-w380h285c1np.pagespeed.ic.J0tdiv60dR.jpg
+File Name: D:\website\www.vadimap.com\ximage_th-phpT0WDf0-jpg-w380h285c1np.pagespeed.ic.J0tdiv60dR.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/ximage_th-phpT0WDf0-jpg-w990h0c0np.pagespeed.ic.HSrGJIkc-Y.jpg
+File Name: D:\website\www.vadimap.com\ximage_th-phpT0WDf0-jpg-w990h0c0np.pagespeed.ic.HSrGJIkc-Y.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/ximage_th-phpZlGsiU-png-w380h285c1np.pagespeed.ic.73xbn_dhqt.jpg
+File Name: D:\website\www.vadimap.com\ximage_th-phpZlGsiU-png-w380h285c1np.pagespeed.ic.73xbn_dhqt.jpg
+Content Type: image/jpeg
+
+Uri: https://www.vadimap.com/ximage_th-phpZlGsiU-png-w990h0c0np.pagespeed.ic.Zr8rAIqoPe.jpg
+File Name: D:\website\www.vadimap.com\ximage_th-phpZlGsiU-png-w990h0c0np.pagespeed.ic.Zr8rAIqoPe.jpg
+Content Type: image/jpeg
+
+Uri: https://www3.weforum.org/docs/WEF_Harnessing_AI_to_accelerate_the_Energy_Transition_2021.pdf
+File Name: D:\website\www.vadimap.com\docs\WEF_Harnessing_AI_to_accelerate_the_Energy_Transition_2021.pdf
+Content Type: application/pdf
+

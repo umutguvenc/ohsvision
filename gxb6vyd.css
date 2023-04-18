@@ -1,0 +1,43 @@
+﻿/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * lato:
+ *   - http://typekit.com/eulas/00000000000000000001522d
+ *   - http://typekit.com/eulas/000000000000000000015232
+ *   - http://typekit.com/eulas/000000000000000000015231
+ *   - http://typekit.com/eulas/00000000000000000001522c
+ *
+ * © 2009-2023 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2021-10-08 18:24:22 UTC"}*/
+
+@import url("p.css");
+
+@font-face {
+font-family:"lato";
+src:url("af/bdde80/00000000000000000001522d/27/l") format("woff2"),url("af/bdde80/00000000000000000001522d/27/d") format("woff"),url("af/bdde80/00000000000000000001522d/27/a") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"lato";
+src:url("af/6c7e72/000000000000000000015232/27/l") format("woff2"),url("af/6c7e72/000000000000000000015232/27/d") format("woff"),url("af/6c7e72/000000000000000000015232/27/a") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"lato";
+src:url("af/220823/000000000000000000015231/27/l") format("woff2"),url("af/220823/000000000000000000015231/27/d") format("woff"),url("af/220823/000000000000000000015231/27/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"lato";
+src:url("af/180254/00000000000000000001522c/27/l") format("woff2"),url("af/180254/00000000000000000001522c/27/d") format("woff"),url("af/180254/00000000000000000001522c/27/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+.tk-lato { font-family: "lato",sans-serif; }
