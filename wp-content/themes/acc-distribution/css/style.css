@@ -429,7 +429,7 @@ header.scrolled.scrolling-up {
 }
 
 .intro .title-lg {
-    margin-bottom: 40px;
+    margin-bottom: 170px;
 }
 
 .intro {
@@ -439,7 +439,7 @@ header.scrolled.scrolling-up {
 
 .title-md {
     font-weight: 500;
-    font-size: 64px;
+    font-size: 34px;
     line-height: 1.25
 }
 
@@ -572,7 +572,7 @@ main {
     font-size: 20px;
     line-height: 1.2;
     font-weight: 400;
-    color: #1D0A5A;
+    color: #5d4bff;
     padding-right: 34px;
     position: relative;
 }
@@ -701,11 +701,11 @@ main {
     display: none;
 }
 .two-links ul li a .title-md {
-    color: #1D0A5A;
+    color: #FFF8FE;
     margin-bottom: 80px;
 }
 .two-links ul li a > img {
-   opacity: 0;
+   opacity: 0.09;
    transition: 0.3s;
 }
 .two-links ul li a:hover > img {
@@ -815,17 +815,17 @@ main {
 .why-acc-title {
     font-size: 32px;
     line-height: 150%;
-    color: #1D0A5A;
+    color: #ffffff;
     transition: 0.2s;
 }
 
 .why-acc ul li.active .why-acc-title {
-    color: #8A94A8;
+    color: #c1d5ff;
 }
 
 .why-acc-content {
     font-size: 16px;
-    color: #576175;
+    color: #bdd3fd;
     padding-top: 24px;
     display: none;
     padding-bottom: 20px;
@@ -847,6 +847,7 @@ main {
     transform: scale(1);
     z-index: 5;
     transition: 0.4s 0.2s;
+    margin-top: 350px;
 }
 
 .why-left {
@@ -859,6 +860,11 @@ main {
 
 .why-section {
     margin-bottom: 160px;
+    background: #311196;
+    padding: 160px 0;
+    color: #fff;
+    
+    position: relative;
 }
 
 .insights-section {
@@ -2358,7 +2364,7 @@ footer {
 }
 
 .vendors-why-section .why-acc ul li .why-acc-title:before {
-    color: #A587F9;
+    color: #f8f8f8;
 }
 
 .sustainability-stats-section {
